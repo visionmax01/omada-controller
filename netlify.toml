@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/*"
+  to = "https://65.0.143.181:8043/:splat"
+  status = 200
+  force = true
+  conditions = {Host = ["controller.rentoranepal.com"]}
